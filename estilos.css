@@ -113,8 +113,8 @@ nav ul li {
 }
 
 .hero img{ /*Esto depende de cada imagen*/
-    height: 25rem;
-    width: 20rem;
+    height: 10rem;
+    width: 10rem;
 }
 
 .bio{ /*puede ser similar al de la imagen*/
